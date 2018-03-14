@@ -32,7 +32,7 @@
 
 ### Compétences spéciales ###
 1. Si il y a deux gobelins dans l'équipe des monstres, leur force est multiplié par 2 **niveau 3**
-2. Si il reste moins de 100 points de vie au magicien, sa force s'éttend à 300 **niveau 3**
+2. Si il reste moins de 100 points de vie au magicien, sa force s'étend à 300 **niveau 3**
 3. Si Sauron se trouve face à 3 héros, ses coups sont multipliés par 1.5 **niveau 2**
 
 
@@ -45,7 +45,7 @@
 | Guerrier      |  Héros        | 150 - 200     | 350           | Ombre noir    |
 | Mage noir     |  Monstre      | 100 - 200     | 400           | Magicien      |
 | Orque         |  Monstre      | 200 - 200     | 400           | Nain          |
-| Gobelin       |  Monstre      | 50 - 200      | 250           | Guerier       |
+| Gobelin       |  Monstre      | 50 - 200      | 250           | Guerrier      |
 | Ombre noir    |  Monstre      | 150 - 250     | 350           | Elfe          |
 | Sauron        |  Monstre      | 200 - 400     | 1000          |               |
 
